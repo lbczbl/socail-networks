@@ -16,7 +16,17 @@
     "url": "https://github.com/lbczbl/socail-networks/issues"
   },
   "homepage": "https://github.com/lbczbl/socail-networks#readme",
-  "dependencies": {},
+  "dependencies": {
+    "bcrypt": "^3.0.4",
+    "body-parser": "^1.18.3",
+    "gravatar": "^1.8.0",
+    "jsonwebtoken": "^8.5.0",
+    "mongoose": "^5.4.14",
+    "nodemon": "^1.18.10",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "validator": "^10.11.0"
+  },
   "devDependencies": {
     "express": "^4.16.4"
   }

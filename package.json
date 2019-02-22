@@ -1,0 +1,23 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "vue-vuex-mongo-express-node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbczbl/socail-networks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lbczbl/socail-networks/issues"
+  },
+  "homepage": "https://github.com/lbczbl/socail-networks#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.16.4"
+  }
+}
